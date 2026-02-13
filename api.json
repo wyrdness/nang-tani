@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/nang-tani",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "nang-tani",
+    "name": "Nang Tani",
+    "aliases": [],
+    "category": "|_GHOSTS_OF_VIOLENT/UNTIMELY_DEATH_|",
+    "subcategory": "| Suitability | Description |",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "Nang Tani (นางตานี), also romanized as Nang Ta-khian or Mae Tani, represents one of Thailand's most beloved and enduring spirit traditions—the ghost of a beautiful young woman who dwells within banana trees, particularly the *tani* variety (*Musa sapientum* var.",
+      "full": "Nang Tani (นางตานี), also romanized as Nang Ta-khian or Mae Tani, represents one of Thailand's most beloved and enduring spirit traditions—the ghost of a beautiful young woman who dwells within banana trees, particularly the *tani* variety (*Musa sapientum* var. *suavis*). Within Thai supernatural taxonomy, she occupies a unique position as simultaneously ghost (*phi*), nature spirit, and protective guardian, embodying the complex relationship between Thai communities and their natural environment. The spirit manifests as a young woman of extraordinary beauty wearing traditional Thai dress in green or white, with long flowing black hair adorned with jasmine flowers. She appears most commonly during full moon nights, standing beneath or emerging from banana trees, her presence announced by the sweet scent of jasmine and ripening bananas. Unlike many malevolent spirits in Thai folklore, Nang Tani is predominantly benevolent—protective of women and children, helpful to respectful humans, and vengeful only when her tree home faces harm. Thai tradition describes Nang Tani as the spirit of a woman who died during pregnancy or childbirth, her soul bound to the banana tree where she perished or was buried. This origin connects her to broader Southeast Asian traditions of *phi tai hong* (ghosts of violent or untimely death) while distinguishing her through specific arboreal association. The banana tree (*ton kluai*) holds particular significance in Thai culture—used in ceremonies, offerings, and daily life—making its resident spirit especially important in community spiritual ecology. Nang Tani manifests protective functions: guarding households with banana trees, ensuring bountiful harvests, protecting pregnant women, and occasionally bestowing blessings or wealth upon respectful devotees. However, she possesses a fierce protective instinct for her tree home. Cutting down a banana tree inhabited by Nang Tani without proper propitiation rituals invites serious misfortune—illness, accidents, business failures, or death. Stories abound of construction projects halted, developers falling ill, and workers injured after disturbing banana groves. Contemporary Thailand maintains strong belief in Nang Tani, with urban and rural communities alike showing respect through offerings, proper tree cutting ceremonies, and avoidance of banana groves at night. The spirit appears frequently in Thai popular culture—films, television series, novels, and comic books—ensuring transmission of traditions to younger generations while adapting to modern contexts."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "|_GHOSTS_OF_VIOLENT/UNTIMELY_DEATH_|",
+      "type": "| Suitability | Description |",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
+}
